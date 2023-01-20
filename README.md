@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=289DFF&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Youssef)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg">
+  <img width="256" height="256" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg">
 </p>
 
 <h3 align="center">Currently learning:</h3>
