@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=49F781&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Youssef)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=2CF782&width=724&height=44&lines=handle+%3D+%22YC%22;code+%3D+*****;println(handle+*+%22%3A+%22+*+(handle%5B1%3A3%5D%5Ecode)*%22+Access+granted%22))](https://git.io/typing-svg)
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg">
 </p>
