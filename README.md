@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=289DFF&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Youssef)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=289DFF&width=435&lines=Hi+there!+%F0%9F%91%8B;My+name+is+Youssef)](https://git.io/typing-svg)ç
+
+
+<img src = "https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/baracktocat.jpg" width = "256"/> 
 <!--
 
+<img src = "" width = "256"/> 
 
 
 **YC-ARCH1/YC-ARCH1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
